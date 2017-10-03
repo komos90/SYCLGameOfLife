@@ -1,0 +1,7 @@
+CMakeFiles/
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+game_of_life
+*.sycl
+
